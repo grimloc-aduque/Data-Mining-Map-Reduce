@@ -1,0 +1,8 @@
+
+__pycache__/
+
+Files/Chunks/*
+Files/Map/*
+Files/Reduce/*
+
+Files/input.txt
